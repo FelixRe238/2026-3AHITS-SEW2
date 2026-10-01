@@ -1,3 +1,6 @@
 <Solution>
+  <Folder Name="/src/">
+    <Project Path="src/OOP/OOP.csproj" />
+  </Folder>
   <Project Path="src/HelloWorld/HelloWorld.csproj" />
 </Solution>
