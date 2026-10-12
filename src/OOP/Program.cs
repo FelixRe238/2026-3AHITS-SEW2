@@ -42,7 +42,7 @@ class Program
         int n = 42;
         Console.WriteLine(n);
         Console.WriteLine(htl); // automatischer Aufruf von ToString
-        Console.WriteLine(htl.ToString);
+        // Console.WriteLine(htl.ToString);
 
     }
 

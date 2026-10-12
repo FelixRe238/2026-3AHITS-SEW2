@@ -2,6 +2,7 @@
   <Folder Name="/src/">
     <Project Path="src/OOP/OOP.csproj" />
     <Project Path="src/Uebung_2_1_Schulklasse/Uebung_2_1_Schulklasse.csproj" />
+    <Project Path="src/Uebung_2_2_Rechteck/Uebung_2_2_Rechteck.csproj" />
   </Folder>
   <Project Path="src/HelloWorld/HelloWorld.csproj" />
 </Solution>
