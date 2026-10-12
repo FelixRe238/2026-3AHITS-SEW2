@@ -1,6 +1,7 @@
 <Solution>
   <Folder Name="/src/">
     <Project Path="src/OOP/OOP.csproj" />
+    <Project Path="src/Uebung_2_1_Schulklasse/Uebung_2_1_Schulklasse.csproj" />
   </Folder>
   <Project Path="src/HelloWorld/HelloWorld.csproj" />
 </Solution>
